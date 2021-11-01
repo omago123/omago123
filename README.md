@@ -1,4 +1,4 @@
-### Hi I"`"m blockchain junior developer I`m interested in smart contract. 👋
+### Hi I'm Blockchain Junior Developer. I'm interested in Smart Contract. 👋
 
 [![omago123's github stats](https://github-readme-stats.vercel.app/api?username=omago123)](https://github.com/anuraghazra/github-readme-stats)
 
