@@ -5,9 +5,6 @@
 <!--
 **omago123/omago123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
- <img src="https://img.shields.io/badge/Golang-00add8?style=flat-square&logo=Go&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -19,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ <img src="https://img.shields.io/badge/Golang-00add8?style=flat-square&logo=Go&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+
