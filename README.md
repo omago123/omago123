@@ -1,9 +1,9 @@
-### Hi I'm Backend Developer. I'm very passionate with solving problem and make it better.<br> I'm interested in Blockchain and Metaverse. Thank you.👋
+### Hi I'm Backend Developer. I'm very passionate with solving problem and make it better.<br> Thank you.👋
 
   # Stack
 |Backend|Database|
 |:-----:|:-------:|
-|<img src="https://img.shields.io/badge/Golang-00add8?style=flat-square&logo=Go&logoColor=white"/>   <br/>  <img src="https://img.shields.io/badge/Express-56ff3f?style=flat-square&logo=Express&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <br/>   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <br/>  <img src="https://img.shields.io/badge/Node.js-1572b6?style=flat-square&logo=Node.js&logoColor=white"/> <br/>  <img src="https://img.shields.io/badge/Typescript-2496ED?style=flat-square&logo=Typescript&logoColor=white"/> <br/>|<img src="https://img.shields.io/badge/MariaDB-e34f26?style=flat-square&logo=MariaDB&logoColor=white"/>     <br/>     <img src="https://img.shields.io/badge/MongoDB-56ff3f?style=flat-square&logo=MongoDB&logoColor=white"/>
+|<img src="https://img.shields.io/badge/Express-56ff3f?style=flat-square&logo=Express&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <br/>   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <br/>  <img src="https://img.shields.io/badge/Node.js-1572b6?style=flat-square&logo=Node.js&logoColor=white"/>  <br/>|<img src="https://img.shields.io/badge/MariaDB-e34f26?style=flat-square&logo=MariaDB&logoColor=white"/>     <br/>     <img src="https://img.shields.io/badge/MongoDB-56ff3f?style=flat-square&logo=MongoDB&logoColor=white"/>
 
 [![omago123's github stats](https://github-readme-stats.vercel.app/api?username=omago123)](https://github.com/anuraghazra/github-readme-stats)
 
